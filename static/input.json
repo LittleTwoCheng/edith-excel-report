@@ -1,0 +1,22 @@
+[
+    {
+        "name": "list",
+        "schema": {
+            "Date": {
+                "prop": "date"
+            },
+            "Market": {
+                "prop": "market"
+            },
+            "Disney ref": {
+                "prop": "disney_ref"
+            },
+            "Feedback(A/AC/R)": {
+                "prop": "feedback"
+            },
+            "Total Approved": {
+                "prop": "total_approved"
+            }
+        }
+    }
+]

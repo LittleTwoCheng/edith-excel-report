@@ -1,0 +1,28 @@
+[
+    {
+        "fileNamePrefix": "Report - ",
+        "fileNameSuffix": "",
+        "header": [
+            {
+                "id": "date",
+                "title": "Date"
+            },
+            {
+                "id": "market",
+                "title": "Market"
+            },
+            {
+                "id": "disney_ref",
+                "title": "Disney ref"
+            },
+            {
+                "id": "feedback",
+                "title": "Feedback(A/AC/R)"
+            },
+            {
+                "id": "total_approved",
+                "title": "Total Approved"
+            }
+        ]
+    }
+]
