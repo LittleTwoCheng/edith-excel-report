@@ -19,7 +19,7 @@
     "esm": "^3.2.25",
     "inquirer": "^7.0.4",
     "inquirer-fuzzy-path": "^2.2.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.2",
     "read-excel-file": "^4.0.5"
   }
 }
